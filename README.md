@@ -1,2 +1,2 @@
 # Pre-Course-Henry
-Este es un repositorio de prueba del modulo 2 de Soy Henry
+Kelvin, este proyecto es una prueba de como clonar un repositorio de github y ponerlo en tu repositorio local
